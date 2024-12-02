@@ -27,11 +27,7 @@ export function LanguageToggle() {
         >
           English
         </DropdownMenuItem>
-        <DropdownMenuItem
-          onClick={() => router.replace(pathname, { locale: 'ja' })}
-        >
-          日本語
-        </DropdownMenuItem>
+
       </DropdownMenuContent>
     </DropdownMenu>
   )

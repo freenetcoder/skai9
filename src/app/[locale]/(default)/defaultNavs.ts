@@ -3,7 +3,7 @@ export enum DEFAULT_PATHS {
   doc = '/doc/general/getting-started',
   blinks = '/blinks',
   news = '/news',
-  privacy = '/legal/privacy-policy',
+
 }
 
 export const defaultHeaderNav = [

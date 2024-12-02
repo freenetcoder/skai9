@@ -1,4 +1,4 @@
-export const locales = ['en', 'ja'] as const
+export const locales = ['en'] as const
 export const defaultLocale = 'en'
 
 export const messageJsons = [
@@ -11,5 +11,4 @@ export const messageJsons = [
   'mechanism',
   'news',
   'doc',
-  'legal',
 ]
