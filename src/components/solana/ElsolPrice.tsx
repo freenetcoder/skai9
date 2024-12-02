@@ -61,22 +61,17 @@ export default function ElsolPrice() {
   useEffect(() => {
     const fetchSOLPrice = async () => {
       try {
-        const ownEndpoint = process.env.NEXT_PUBLIC_SOLANA_PRICE_ENDPOINT
+        
         const response = await fetch(
-          ownEndpoint
-            ? ownEndpoint
-            : 'https://api.coingecko.com/api/v3/simple/price?ids=solana&vs_currencies=usd',
+'https://api.coingecko.com/api/v3/simple/price?ids=solana&vs_currencies=usd',
         )
 
         let price = 0
 
-        if (ownEndpoint) {
-          const data = await response.text()
-          price = Number(data)
-        } else {
+
           const data = await response.json()
           price = data.solana.usd
-        }
+ 
 
         setSolPrice(price)
       } catch (error) {
