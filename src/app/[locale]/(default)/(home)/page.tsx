@@ -5,7 +5,7 @@ import ArticleIndex from '@/components/articles/ArticleIndex'
 import HomeHeroRow from './HomeHeroRow'
 import CTARow from '@/components/rows/CTARow'
 import ProductsSlideRow from '@/components/rows/ProductsSlideRow'
-import BlinksHeroRow from '../ai800/BlinksHeroRow'
+import BlinksHeroRow from '../blinks/BlinksHeroRow'
 
 const { generateMetadata } = getDataForPageByFilename(__filename)
 export { generateMetadata }

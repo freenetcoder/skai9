@@ -1,7 +1,7 @@
 export enum DEFAULT_PATHS {
   home = '/',
   doc = '/doc/general/getting-started',
-  blinks = '/ai800',
+  blinks = '/blinks',
   news = '/news',
   privacy = '/legal/privacy-policy',
 }
