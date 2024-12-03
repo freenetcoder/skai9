@@ -57,7 +57,7 @@ export default function TocMenuModalNav({ articleContent }: Props) {
             <div className="flex flex-row gap-3">
               <GithubIconLink />
               <TwitterIconLink />
-              <DiscordIconLink />
+              {/* <DiscordIconLink /> */}
             </div>
           </div>
         </SheetContent>

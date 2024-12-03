@@ -51,7 +51,7 @@ export default function DefaultHeader() {
             <div className="hidden items-center gap-4 md:flex md:flex-row">
               <GithubIconLink />
               <TwitterIconLink />
-              <DiscordIconLink />
+              {/* <DiscordIconLink /> */}
             </div>
           </div>
         </div>

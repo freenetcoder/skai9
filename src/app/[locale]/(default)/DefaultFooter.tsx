@@ -30,7 +30,7 @@ export default function DefaultFooter() {
             <div className="flex flex-row items-center gap-4">
               <GithubIconLink />
               <TwitterIconLink />
-              <DiscordIconLink />
+              {/* <DiscordIconLink /> */}
             </div>
           </div>
           <div className="flex w-full flex-col gap-3">

@@ -27,7 +27,7 @@ export function GithubIconLink() {
 export function TwitterIconLink() {
   return (
     <a
-      href={`https://x.com/${appInfo.twitterId}`}
+      href={`https://x.com/skai9net`}
       className="hover:opacity-80"
       rel="noopener noreferrer"
       target="_blank"

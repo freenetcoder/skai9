@@ -68,7 +68,7 @@ export default function DefaultModalNav() {
             <div className="flex flex-row gap-3">
               <GithubIconLink />
               <TwitterIconLink />
-              <DiscordIconLink />
+              {/* <DiscordIconLink /> */}
             </div>
           </div>
         </SheetContent>

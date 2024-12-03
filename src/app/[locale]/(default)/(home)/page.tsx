@@ -24,7 +24,7 @@ export default async function HomePage({ params }: PageProps) {
     <>
       <HomeHeroRow />
       <BlinksHeroRow />
-      <CTARow />
+      {/* <CTARow /> */}
       {/* <ProductsSlideRow /> */}
       {/* <ArticleIndex articlesData={newsData} showItemsNum={3} /> */}
     </>
