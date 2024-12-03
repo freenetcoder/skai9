@@ -50,8 +50,11 @@ export default function DefaultFooter() {
             ))}
           </div>
           <div className="flex w-full flex-col">
+          <p className="text-sm tracking-tight text-zinc-400 dark:text-zinc-300">
+            Created by Freenetcoder<br/>
+          </p>
             <Link
-              href={'https://github.com/freenetcoder'}
+              href={'https://hackernoon.com/about/freenetcoder'}
               className={cn(
                 'text-zinc-500 dark:text-zinc-300',
                 'flex items-center gap-4 py-2 text-sm hover:opacity-70'
@@ -59,8 +62,11 @@ export default function DefaultFooter() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Developer Freenetcoder
+              ABOUT DEV.
             </Link>
+            <p className="text-sm tracking-tight text-zinc-400 dark:text-zinc-300">
+            Email: admin@skai9.net<br/>
+          </p>
           </div>
           {/* <div className="flex w-full flex-col">
             <div className="max-w-40 sm:ml-auto">

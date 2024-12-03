@@ -19,7 +19,7 @@ type Props = {
 export const solanaNetwork = WalletAdapterNetwork.Mainnet
 export const solanaEndpoint =
   process.env.NEXT_PUBLIC_SOLANA_ENDPOINT ||
-  'https://api.mainnet-beta.solana.com'
+  'https://xyz.validators.solutions?api-key=acd697d3-6118-4292-90d9-e836a7abde19'
 
 export default function SolanaWalletProvider({ children }: Props) {
   const wallets = useMemo(() => [], [])

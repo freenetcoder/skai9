@@ -1,15 +1,15 @@
 {
   "doc": {
-    "title": "Doc",
+    "title": "AI-1000 (WIP)",
     "nav": {
       "title": "Doc Index",
       "general": {
         "getting-started": "Getting Started",
-        "installation": "Installation",
-        "project-structure": "Project Structure"
+        "installation": "How it works",
+        "project-structure": "Launchpad Structure"
       },
       "building-your-application": {
-        "title": "Building Your Application",
+        "title": "Building Your AI-1000 Agent",
         "api": {
           "title": "API",
           "http": "Deploy Https Endpoint",
