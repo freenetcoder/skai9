@@ -133,7 +133,7 @@ export default function HomeHeroRow() {
             {t('(home).HomeHeroRow.subtitle3')}
           </p>
           <div className="flex flex-wrap items-center justify-center gap-3">
-            <Link href={`https://dexscreener.com/solana/7a1kt46lq1hduvcdnpxgmgmrmbfu2nnnx9x7e2ebqexy`}
+            <Link href={`https://pump.fun`}
              target="_blank"
              rel="noopener noreferrer">
               <Button>{t('(home).HomeHeroRow.button')}</Button>
