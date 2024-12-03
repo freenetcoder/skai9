@@ -30,7 +30,7 @@ export default async function BlinksPage({ params }: PageProps) {
       <InstantLiquidityRow />
      
       <VLDAirdropRow />
-      <CTARow />
+      {/* <CTARow /> */}
       {/* <ProductsSlideRow /> */}
     </>
   )
