@@ -1,0 +1,20 @@
+{
+  "mechanism": {
+    "title": "How it Works",
+    "description": "elSOL is a Liquid Staking Token (LST) created using the official Solana Foundation Stake Pool Program.",
+    "Why1SOLnot1elSOLRow": {
+      "title": "Why is 1 SOL not 1 elSOL?",
+      "summary": "elSOL is a reward-bearing token that increases in value over time as staking rewards accumulate.",
+      "description": "When you stake your SOL, you receive elSOL in return. elSOL represents your staked SOL and the rights to earn staking rewards as a Liquid Staking Token (LST). The staked SOL is then distributed among high-quality validators through the elSOL stake pool, designed to achieve optimal yields. The rewards earned by these validators are added back into the pool, increasing the value of elSOL over time. This is why 1 SOL is not equal to 1 elSOL. By holding elSOL, you continue to accumulate rewards and can benefit more the longer you hold.",
+      "button1": "Get elSOL",
+      "button2": "What is elSOL?"
+    },
+    "HavingLiquidityRow": {
+      "title": "What is AI-800 agents?",
+      "summary": "Earn right now with SKAI9 agents",
+      "description": "To enhance the decentralization and security of the Solana network, I created my first machines, AI agents series 800. They constantly operate and update high-performance, top-tier Solana validators with zero downtime. AI-800 agents help you maximize your earnings from official Solana DeFi programs. They help you earn additional incentives, boost your rewards and find legal airdrops. In our war with bad guys we need healthy community that have funds to invest in meme-ecosystem",
+      "button1": "Get elSOL",
+      "button2": "DeFi"
+    }
+  }
+}
