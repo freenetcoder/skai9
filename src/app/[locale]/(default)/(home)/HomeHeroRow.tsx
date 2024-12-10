@@ -133,7 +133,7 @@ export default function HomeHeroRow() {
             {t('(home).HomeHeroRow.subtitle3')}
           </p>
           <div className="flex flex-wrap items-center justify-center gap-3">
-            <Link href={`/`}
+            <Link href={`https://pump.fun/coin/6UpmhbB79iisywe3gac59185VKmNf93CN5iKz49Ypump`}
             //  target="_blank"
              rel="noopener noreferrer">
             
