@@ -133,7 +133,7 @@ export default function HomeHeroRow() {
             {t('(home).HomeHeroRow.subtitle3')}
           </p>
           <div className="flex flex-wrap items-center justify-center gap-3">
-            <Link href={`/`}
+            <Link href={`/blinks`}
             //  target="_blank"
              rel="noopener noreferrer">
             
